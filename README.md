@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./rimon2.jpg" alt="Farhad Rimon" width="220" />
+<img src="./banner/github_banner.png" alt="Farhad Rimon — Web Developer" width="100%" />
 
 # Hi 👋, I'm Farhad Rimon
 
