@@ -1,13 +1,18 @@
 
 <div align="center">
-
+<!--- banner --->
 <img src="./banner/github_banner2.png" alt="Farhad Rimon — Web Developer" width="100%" />
 
-# Hi 👋, I'm Farhad Rimon
+  <!--- title --->
+  <div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Farhad Rimon</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&pause=1200&color=2B90FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Tailwind+CSS+%7C+Node.js+%7C+MongoDB;Building+Modern+Responsive+Web+Apps;Exploring+Data+Science"
+  alt="Typing SVG - Full Stack Web Developer"/></a>
+  </ul>
+</div>
 
-### Web Developer · React & Next.js · Interested in Data Science
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&pause=1200&color=2B90FF&center=true&vCenter=true&width=600&lines=Building+with+React+and+Next.js;Learning+by+building+real+projects;Interested+in+Data+Science" alt="Introduction animation" />
 
 <br />
 
@@ -30,55 +35,45 @@
 
 ## 👨‍💻 About Me
 
-- 🖥️ I build responsive web applications with **React, Next.js and TypeScript**.
+- 🖥️ I’m currently working on **React.js, Next.js, Typescript** for frontend development.
 - 🎨 I use **Tailwind CSS, DaisyUI and HeroUI** to build interfaces.
-- 🗄️ I work with **Node.js, Express.js and MongoDB**.
+- 🗄️ I work with **Node.js, Express.js, MongoDB and Mongoose** for the backend.
 - 🔐 I have built authentication features using **Better Auth**.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB)**.
+- 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
 - 🌱 I’m improving my skills by building projects and exploring how things work.
 - 📊 I’m interested in exploring **Data Science** in the future.
-- 🎓 I studied **Computer Science and Engineering** at **Daffodil International University**.
-- 🌍 Based in **Bangladesh**.
-- 🌐 Explore my **[Portfolio](https://my-portfolio-azure-six-88.vercel.app/)** and **[CV](https://drive.google.com/file/d/1EOCNzT3NzxQ9MrtdDlCXcNrTPD3uoAhG/view?usp=drive_link)**.
+- 🌐 Explore my **[Portfolio](https://my-portfolio-azure-six-88.vercel.app/)** and my **[Resume](https://drive.google.com/file/d/1EOCNzT3NzxQ9MrtdDlCXcNrTPD3uoAhG/view?usp=drive_link)**.
 
-## 🛠️ Technology Stack
+<!--- technology --->
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
-### Languages
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/ForhadRimon80)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript and TypeScript" />
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/ForhadRimon80)
 
-### Frontend
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,nodejs,express)](https://github.com/ForhadRimon80)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js and Tailwind CSS" />
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/ForhadRimon80)
 
-### Backend & Database
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/ForhadRimon80)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js and MongoDB" />
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/ForhadRimon80)
 
-### Tools & Deployment
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,git,github,vscode,docker)](https://github.com/ForhadRimon80)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git, GitHub, VS Code and Vercel" />
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-## 🚀 Featured Projects
-
-### 🛒 Bazar Dor | বাজার দর
-
-A Bengali market price tracking application for browsing commodity prices, comparing price changes and exploring products by category.
-
-**Features:** Price trends, category browsing, price sorting, authentication and profile management.
-
-**Built with:** Next.js, React, TypeScript, Tailwind CSS, DaisyUI, MongoDB and Better Auth.
-
-[Explore Repository →](https://github.com/ForhadRimon80/bazar-dor-app-project)
-
-### 📰 Bangla News 24
-
-A Bengali news application that presents news from an external API through featured stories, organized sections and individual article pages.
-
-**Features:** API integration, category navigation, dynamic article pages and localized dates.
-
-**Built with:** Next.js, React, TypeScript and Tailwind CSS.
-
-[Explore Repository →](https://github.com/ForhadRimon80/bangla-news-24)
+### GitHub Contributions:
+![Snake Grid](https://github.com/ForhadRimon80/contribution-snake/blob/output/grid.svg)
 
 ## 📊 GitHub Activity
 
